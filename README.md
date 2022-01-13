@@ -1,2 +1,2 @@
 # Flight-Fare-Prediction
-![Demo show](https://github.com/IMvision12/Flight-Fare-Prediction/blob/main/download.jfif)
+<img src="https://github.com/IMvision12/Flight-Fare-Prediction/blob/main/download.jfif" width="500" height="500" />
